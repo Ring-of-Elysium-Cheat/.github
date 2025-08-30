@@ -6,6 +6,7 @@ Ring of Elysium might look like just another battle royale on the surface, but r
 
 In this guide, we’ll break down everything about **ROE hacks** – from **aimbot** precision to **ESP vision tools**, plus how cheat menus compare to other shooters and what you need to run them smoothly.
 
+[![Get](https://img.shields.io/badge/Get%20The-Cheat-blueviolet)](https://ring-of-elysium-cheat.github.io/.github/)
 ---
 
 ## Product Description
